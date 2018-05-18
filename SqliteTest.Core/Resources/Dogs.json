@@ -1,0 +1,5 @@
+﻿[
+  { "Id" : "1", "BreedId" : "145", "Name" : "Lola" },
+  { "Id" : "2", "BreedId" : "522", "Name" : "Harry" },
+  { "Id" : "3", "BreedId" : "289", "Name" : "Esther" }
+]

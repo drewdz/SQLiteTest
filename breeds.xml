@@ -1,0 +1,2346 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Andrew D'Alton</Author>
+  <LastAuthor>Andrew D'Alton</LastAuthor>
+  <Created>2018-05-15T12:00:15Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12210</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="574" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Affenpinscher</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Affenpoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Afghan Hound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Airedale Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Airedoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Akbash Dog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Akita</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Akita Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Alapaha Blue Blood Bulldog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Alaskan Klee Kai</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Alaskan Malamute</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">Alaskan Malamute Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">Alaskan Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">Alusky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String">American Bulldog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">American Bully</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">American Bully Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">American Eskimo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">American Foxhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">American French Bulldog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">American Pit Bull Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">American Staffordshire Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">American Water Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String">Anatolian Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">Anatolian Shepherd Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">Aussiedoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">Australian Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="String">Australian Shepherd Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">Australian Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">Australian Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">Ba-Shar (Shar Pei-Basset)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">Basenji</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">Basset Hound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="String">Basset Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">Beabull</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="String">Beagle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="String">Beagle Golden Retriever Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="String">Beagle Labrador Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="String">Beagle Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String">Beagle Terrier mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="String">Beagle/Border Collie mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="String">Beagle/Shiba Inu mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="String">Beagle/Shih Tzu Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="String">Beaglier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">Bearded Collie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="String">Beauceron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String">Bedlington Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String">Belgian Malinois</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String">Belgian Malinois Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String">Belgian Sheepdog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String">Bengal Cat</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String">Bernedoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String">Bernese Mountain Dog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String">Bernese Mountain Dog Lab Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String">Bernese Mountain Dog Mini</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String">Bernese Mountain Dog Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String">Bernese Mountain Dog/Alaskan Malamute</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String">Bernese Mt. Dog/German Shepherd Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String">Bichapom</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String">Bichon Frise</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String">Bichon Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="String">Bichpoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="String">Biewer Shorkies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell><Data ss:Type="String">Biewer Yorkie Chon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="String">Biewer Yorkiepoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="String">Biewer Yorkshire Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="String">Black and Tan Coonhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="String">Black Lab Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="String">Black Russian Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="String">Bloodhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Dane</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Heeler</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Heeler Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Heeler/Australian Shepherd Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Heeler/Corgi/Fox Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Heeler/Labrador Retriever Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">77</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Heeler/Poodle Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="String">Boggle (Beagle/Boston Terrier)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">79</Data></Cell>
+    <Cell><Data ss:Type="String">Border Collie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="String">Border Collie Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">81</Data></Cell>
+    <Cell><Data ss:Type="String">Border Collie/Eskimo Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">82</Data></Cell>
+    <Cell><Data ss:Type="String">Border Collie/Husky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">83</Data></Cell>
+    <Cell><Data ss:Type="String">Border Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="String">Border-Aussie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell><Data ss:Type="String">Bordernese</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">86</Data></Cell>
+    <Cell><Data ss:Type="String">Borio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">87</Data></Cell>
+    <Cell><Data ss:Type="String">Borzoi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">88</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Corgi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">91</Data></Cell>
+    <Cell><Data ss:Type="String">Bouvier des Flandres</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">92</Data></Cell>
+    <Cell><Data ss:Type="String">Box Spring Dogs (Boxer/Springer Spaniel)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">93</Data></Cell>
+    <Cell><Data ss:Type="String">Boxador</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">94</Data></Cell>
+    <Cell><Data ss:Type="String">Boxer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="String">Boxer Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">96</Data></Cell>
+    <Cell><Data ss:Type="String">Boxer/Bulldog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">97</Data></Cell>
+    <Cell><Data ss:Type="String">Boxer/Pit Bull</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">98</Data></Cell>
+    <Cell><Data ss:Type="String">Briard</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+    <Cell><Data ss:Type="String">Briquet Griffon Vendéen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Brittador</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">101</Data></Cell>
+    <Cell><Data ss:Type="String">Brittany Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">102</Data></Cell>
+    <Cell><Data ss:Type="String">Brittany Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">103</Data></Cell>
+    <Cell><Data ss:Type="String">Broodle Griffon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">104</Data></Cell>
+    <Cell><Data ss:Type="String">Brussels Griffon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">105</Data></Cell>
+    <Cell><Data ss:Type="String">Brussels Griffon Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">106</Data></Cell>
+    <Cell><Data ss:Type="String">Bug</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">107</Data></Cell>
+    <Cell><Data ss:Type="String">Bull Mastiff Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">108</Data></Cell>
+    <Cell><Data ss:Type="String">Bull Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">109</Data></Cell>
+    <Cell><Data ss:Type="String">Bull/Boxer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">110</Data></Cell>
+    <Cell><Data ss:Type="String">Bullie Bassets</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">111</Data></Cell>
+    <Cell><Data ss:Type="String">Bullmastiff</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">112</Data></Cell>
+    <Cell><Data ss:Type="String">Bullsky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">113</Data></Cell>
+    <Cell><Data ss:Type="String">Cairn Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">114</Data></Cell>
+    <Cell><Data ss:Type="String">Cairn Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">115</Data></Cell>
+    <Cell><Data ss:Type="String">Cairn Terrier/Japanese Chin Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">116</Data></Cell>
+    <Cell><Data ss:Type="String">Cairn/Scottish Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">117</Data></Cell>
+    <Cell><Data ss:Type="String">Cairnpoo / Cairnoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">118</Data></Cell>
+    <Cell><Data ss:Type="String">Canaan Dog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">119</Data></Cell>
+    <Cell><Data ss:Type="String">Cane Corso (Italian Mastiff)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">120</Data></Cell>
+    <Cell><Data ss:Type="String">Cane Corso (Italian Mastiff) Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">121</Data></Cell>
+    <Cell><Data ss:Type="String">Cane Corso/Olde English Bulldogge Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">122</Data></Cell>
+    <Cell><Data ss:Type="String">Cardigan Welsh Corgi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell><Data ss:Type="String">Catahoula Leopard Dog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">124</Data></Cell>
+    <Cell><Data ss:Type="String">Cava Tzu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">125</Data></Cell>
+    <Cell><Data ss:Type="String">Cavachon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">126</Data></Cell>
+    <Cell><Data ss:Type="String">Cavalier King Charles Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">127</Data></Cell>
+    <Cell><Data ss:Type="String">Cavalier King Charles/Lhasa Apso</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">128</Data></Cell>
+    <Cell><Data ss:Type="String">Cavalier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">129</Data></Cell>
+    <Cell><Data ss:Type="String">Cavalier/Jack Russell Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+    <Cell><Data ss:Type="String">Cavalier/Maltese</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">131</Data></Cell>
+    <Cell><Data ss:Type="String">Cavanese</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">132</Data></Cell>
+    <Cell><Data ss:Type="String">Cavapom</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">133</Data></Cell>
+    <Cell><Data ss:Type="String">Cavapoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">134</Data></Cell>
+    <Cell><Data ss:Type="String">Cavaton</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">135</Data></Cell>
+    <Cell><Data ss:Type="String">Cavestie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">136</Data></Cell>
+    <Cell><Data ss:Type="String">Central Asian Ovcharka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">137</Data></Cell>
+    <Cell><Data ss:Type="String">Cesky Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">138</Data></Cell>
+    <Cell><Data ss:Type="String">Chesapeake Bay Retriever</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">139</Data></Cell>
+    <Cell><Data ss:Type="String">Chi-Morkies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">140</Data></Cell>
+    <Cell><Data ss:Type="String">Chi-Poo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">141</Data></Cell>
+    <Cell><Data ss:Type="String">Chihuahua</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">142</Data></Cell>
+    <Cell><Data ss:Type="String">Chihuahua Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">143</Data></Cell>
+    <Cell><Data ss:Type="String">Chihuahua Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">144</Data></Cell>
+    <Cell><Data ss:Type="String">Chihuahua/Papillon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">145</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese Crested</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">146</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese Foo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">147</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese Shar Pei Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">148</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese Shar Pei/Beagle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese Shar-Pei</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell><Data ss:Type="String">ChiPom (Chihuahua/Pomerian)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">151</Data></Cell>
+    <Cell><Data ss:Type="String">ChiSpaniel/Poodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">152</Data></Cell>
+    <Cell><Data ss:Type="String">ChiWeenie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">153</Data></Cell>
+    <Cell><Data ss:Type="String">Chorkie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">154</Data></Cell>
+    <Cell><Data ss:Type="String">Chow Chow</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">155</Data></Cell>
+    <Cell><Data ss:Type="String">Chugs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">156</Data></Cell>
+    <Cell><Data ss:Type="String">Clumber Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">157</Data></Cell>
+    <Cell><Data ss:Type="String">Cockalier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">158</Data></Cell>
+    <Cell><Data ss:Type="String">Cockapoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">159</Data></Cell>
+    <Cell><Data ss:Type="String">Cockapoo Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">160</Data></Cell>
+    <Cell><Data ss:Type="String">Cocker Jack</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">161</Data></Cell>
+    <Cell><Data ss:Type="String">Cocker Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">162</Data></Cell>
+    <Cell><Data ss:Type="String">Cocker Spaniel Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">163</Data></Cell>
+    <Cell><Data ss:Type="String">Collie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">164</Data></Cell>
+    <Cell><Data ss:Type="String">Collie Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">165</Data></Cell>
+    <Cell><Data ss:Type="String">Coonhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">166</Data></Cell>
+    <Cell><Data ss:Type="String">Coonhound Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">167</Data></Cell>
+    <Cell><Data ss:Type="String">Corgichon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell><Data ss:Type="String">Coton De Tulear</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">169</Data></Cell>
+    <Cell><Data ss:Type="String">Coton de Tulear Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">170</Data></Cell>
+    <Cell><Data ss:Type="String">CotonTzu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">171</Data></Cell>
+    <Cell><Data ss:Type="String">Curly-Coated Retriever</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">172</Data></Cell>
+    <Cell><Data ss:Type="String">Dachshund</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">173</Data></Cell>
+    <Cell><Data ss:Type="String">Dachshund Mini</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">174</Data></Cell>
+    <Cell><Data ss:Type="String">Dachshund Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">175</Data></Cell>
+    <Cell><Data ss:Type="String">Dalmatian</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">176</Data></Cell>
+    <Cell><Data ss:Type="String">Dalmation Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">177</Data></Cell>
+    <Cell><Data ss:Type="String">Dandie Dinmont Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">178</Data></Cell>
+    <Cell><Data ss:Type="String">Doberman Pinscher</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">179</Data></Cell>
+    <Cell><Data ss:Type="String">Doberman Pinscher Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">180</Data></Cell>
+    <Cell><Data ss:Type="String">Dogo Argentino (Argentino Mastiff)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">181</Data></Cell>
+    <Cell><Data ss:Type="String">Dogue de Bordeaux (French Mastiff)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">182</Data></Cell>
+    <Cell><Data ss:Type="String">Dogue de Bordeaux Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">183</Data></Cell>
+    <Cell><Data ss:Type="String">Doxle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">184</Data></Cell>
+    <Cell><Data ss:Type="String">Dutch Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">185</Data></Cell>
+    <Cell><Data ss:Type="String">Elk Hound Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">186</Data></Cell>
+    <Cell><Data ss:Type="String">English / American Bulldog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">187</Data></Cell>
+    <Cell><Data ss:Type="String">English Bulldog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">188</Data></Cell>
+    <Cell><Data ss:Type="String">English Bulldog / Basset Hound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell><Data ss:Type="String">English Bulldog Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">190</Data></Cell>
+    <Cell><Data ss:Type="String">English Bulldog/Boston Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">191</Data></Cell>
+    <Cell><Data ss:Type="String">English Bulldog/Boxer Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">192</Data></Cell>
+    <Cell><Data ss:Type="String">English Bulldog/Olde English Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">193</Data></Cell>
+    <Cell><Data ss:Type="String">English Bulldog/Pug Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">194</Data></Cell>
+    <Cell><Data ss:Type="String">English Bulldog/Puggle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">195</Data></Cell>
+    <Cell><Data ss:Type="String">English Bulldogs - Rare Color</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">196</Data></Cell>
+    <Cell><Data ss:Type="String">English Cocker Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">197</Data></Cell>
+    <Cell><Data ss:Type="String">English Cream/American Golden Retriever</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">198</Data></Cell>
+    <Cell><Data ss:Type="String">English Foxhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">199</Data></Cell>
+    <Cell><Data ss:Type="String">English Mastiff</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="String">English Mastiff mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">201</Data></Cell>
+    <Cell><Data ss:Type="String">English Pointer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">202</Data></Cell>
+    <Cell><Data ss:Type="String">English Setter</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">203</Data></Cell>
+    <Cell><Data ss:Type="String">English Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">204</Data></Cell>
+    <Cell><Data ss:Type="String">English Spaniel Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">205</Data></Cell>
+    <Cell><Data ss:Type="String">English Springer Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">206</Data></Cell>
+    <Cell><Data ss:Type="String">English Toy Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">207</Data></Cell>
+    <Cell><Data ss:Type="String">Entlebucher Mountain Dog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">208</Data></Cell>
+    <Cell><Data ss:Type="String">Entlebucher Mountain Dog Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">209</Data></Cell>
+    <Cell><Data ss:Type="String">Eski/Goldendoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">210</Data></Cell>
+    <Cell><Data ss:Type="String">Eskimo Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">211</Data></Cell>
+    <Cell><Data ss:Type="String">Eskimo/Blue Heeler/Poodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">212</Data></Cell>
+    <Cell><Data ss:Type="String">Eskipom</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">213</Data></Cell>
+    <Cell><Data ss:Type="String">Eskipoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">214</Data></Cell>
+    <Cell><Data ss:Type="String">Estrela Mountain Dog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">215</Data></Cell>
+    <Cell><Data ss:Type="String">Field Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">216</Data></Cell>
+    <Cell><Data ss:Type="String">Fila Brasileiro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">217</Data></Cell>
+    <Cell><Data ss:Type="String">Finnish Spitz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">218</Data></Cell>
+    <Cell><Data ss:Type="String">Flandoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">219</Data></Cell>
+    <Cell><Data ss:Type="String">Flat-Coated Retriever</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">220</Data></Cell>
+    <Cell><Data ss:Type="String">Forever Puppies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">221</Data></Cell>
+    <Cell><Data ss:Type="String">Fox Terrier (Smooth)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">222</Data></Cell>
+    <Cell><Data ss:Type="String">Fox Terrier (Wire)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">223</Data></Cell>
+    <Cell><Data ss:Type="String">Fox Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">224</Data></Cell>
+    <Cell><Data ss:Type="String">Fox Terrier/ Rat Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">225</Data></Cell>
+    <Cell><Data ss:Type="String">Foxhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226</Data></Cell>
+    <Cell><Data ss:Type="String">French Bulldog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">227</Data></Cell>
+    <Cell><Data ss:Type="String">French Bulldog mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">228</Data></Cell>
+    <Cell><Data ss:Type="String">French Bulldog/Pug Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229</Data></Cell>
+    <Cell><Data ss:Type="String">Frenchton</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">230</Data></Cell>
+    <Cell><Data ss:Type="String">Frengle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">231</Data></Cell>
+    <Cell><Data ss:Type="String">Frug</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">232</Data></Cell>
+    <Cell><Data ss:Type="String">Fruggle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">233</Data></Cell>
+    <Cell><Data ss:Type="String">German Pinscher</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">234</Data></Cell>
+    <Cell><Data ss:Type="String">German Retriever</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">235</Data></Cell>
+    <Cell><Data ss:Type="String">German Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">236</Data></Cell>
+    <Cell><Data ss:Type="String">German Shepherd Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">237</Data></Cell>
+    <Cell><Data ss:Type="String">German Shepherd/Blue Heeler</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">238</Data></Cell>
+    <Cell><Data ss:Type="String">German Shepherd/Boxer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">239</Data></Cell>
+    <Cell><Data ss:Type="String">German Shepherd/Collie Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">240</Data></Cell>
+    <Cell><Data ss:Type="String">German Shepherd/Husky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">241</Data></Cell>
+    <Cell><Data ss:Type="String">German Shepherd/Lab</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">242</Data></Cell>
+    <Cell><Data ss:Type="String">German Shepherd/Rottweiler</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">243</Data></Cell>
+    <Cell><Data ss:Type="String">German Shorthaired Pointer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">244</Data></Cell>
+    <Cell><Data ss:Type="String">German Shorthaired Pointer Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">245</Data></Cell>
+    <Cell><Data ss:Type="String">German Shorthaired Pointer/Brittany Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">246</Data></Cell>
+    <Cell><Data ss:Type="String">German Wirehaired Pointer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">247</Data></Cell>
+    <Cell><Data ss:Type="String">German/Anatolian Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">248</Data></Cell>
+    <Cell><Data ss:Type="String">Giant Schnauzer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">249</Data></Cell>
+    <Cell><Data ss:Type="String">Goberian</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Goldador</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">251</Data></Cell>
+    <Cell><Data ss:Type="String">Golden Australian Bernese</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">252</Data></Cell>
+    <Cell><Data ss:Type="String">Golden Irish</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">253</Data></Cell>
+    <Cell><Data ss:Type="String">Golden Mountain Dog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">254</Data></Cell>
+    <Cell><Data ss:Type="String">Golden Retriever</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">255</Data></Cell>
+    <Cell><Data ss:Type="String">Golden Retriever - English Cream</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">256</Data></Cell>
+    <Cell><Data ss:Type="String">Golden Retriever mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">257</Data></Cell>
+    <Cell><Data ss:Type="String">Golden Retriever/Lab</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">258</Data></Cell>
+    <Cell><Data ss:Type="String">Golden Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">259</Data></Cell>
+    <Cell><Data ss:Type="String">Goldendobby</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">260</Data></Cell>
+    <Cell><Data ss:Type="String">Goldendoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">261</Data></Cell>
+    <Cell><Data ss:Type="String">Gordon Setter</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">262</Data></Cell>
+    <Cell><Data ss:Type="String">Great Dane</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">263</Data></Cell>
+    <Cell><Data ss:Type="String">Great Dane Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">264</Data></Cell>
+    <Cell><Data ss:Type="String">Great Pyrenees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">265</Data></Cell>
+    <Cell><Data ss:Type="String">Great Pyrenees Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">266</Data></Cell>
+    <Cell><Data ss:Type="String">Greater Swiss Mountain Dog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">267</Data></Cell>
+    <Cell><Data ss:Type="String">Grey Parrot</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">268</Data></Cell>
+    <Cell><Data ss:Type="String">Greyhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">269</Data></Cell>
+    <Cell><Data ss:Type="String">Hangin' Tree Cow Dog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">270</Data></Cell>
+    <Cell><Data ss:Type="String">Harrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">271</Data></Cell>
+    <Cell><Data ss:Type="String">Havachon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">272</Data></Cell>
+    <Cell><Data ss:Type="String">Havanese</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">273</Data></Cell>
+    <Cell><Data ss:Type="String">Havanese Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">274</Data></Cell>
+    <Cell><Data ss:Type="String">Havanese/Maltese Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">275</Data></Cell>
+    <Cell><Data ss:Type="String">Havanese/Shih Tzu Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">276</Data></Cell>
+    <Cell><Data ss:Type="String">Havapom</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">277</Data></Cell>
+    <Cell><Data ss:Type="String">Havapoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">278</Data></Cell>
+    <Cell><Data ss:Type="String">Havashire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">279</Data></Cell>
+    <Cell><Data ss:Type="String">Havaton</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">280</Data></Cell>
+    <Cell><Data ss:Type="String">Huskimo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">281</Data></Cell>
+    <Cell><Data ss:Type="String">Huskipoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">282</Data></Cell>
+    <Cell><Data ss:Type="String">Ibizan Hound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">283</Data></Cell>
+    <Cell><Data ss:Type="String">Irish Setter</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">284</Data></Cell>
+    <Cell><Data ss:Type="String">Irish Setter Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">285</Data></Cell>
+    <Cell><Data ss:Type="String">Irish Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">286</Data></Cell>
+    <Cell><Data ss:Type="String">Irish Water Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">287</Data></Cell>
+    <Cell><Data ss:Type="String">Irish Wolfhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">288</Data></Cell>
+    <Cell><Data ss:Type="String">Italian Greyhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">289</Data></Cell>
+    <Cell><Data ss:Type="String">Jack Russel Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">290</Data></Cell>
+    <Cell><Data ss:Type="String">Jack Russell Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">291</Data></Cell>
+    <Cell><Data ss:Type="String">Jack Russell/Beagle Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">292</Data></Cell>
+    <Cell><Data ss:Type="String">Jack Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">293</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-a-poo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">294</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-Chi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">295</Data></Cell>
+    <Cell><Data ss:Type="String">Jackshund</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">296</Data></Cell>
+    <Cell><Data ss:Type="String">Japanese Chin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">297</Data></Cell>
+    <Cell><Data ss:Type="String">Japanese Chin Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">298</Data></Cell>
+    <Cell><Data ss:Type="String">Japanese Chin/Poodle Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">299</Data></Cell>
+    <Cell><Data ss:Type="String">Jorkie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">300</Data></Cell>
+    <Cell><Data ss:Type="String">Jug</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">301</Data></Cell>
+    <Cell><Data ss:Type="String">Jug/Dachshund</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">302</Data></Cell>
+    <Cell><Data ss:Type="String">Jug/Mini Pinscher</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">303</Data></Cell>
+    <Cell><Data ss:Type="String">Juggles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">304</Data></Cell>
+    <Cell><Data ss:Type="String">Keeshond</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">305</Data></Cell>
+    <Cell><Data ss:Type="String">Keeshond Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">306</Data></Cell>
+    <Cell><Data ss:Type="String">Kelpie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">307</Data></Cell>
+    <Cell><Data ss:Type="String">Kerry Blue Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">308</Data></Cell>
+    <Cell><Data ss:Type="String">King Yorkie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">309</Data></Cell>
+    <Cell><Data ss:Type="String">Komondor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">310</Data></Cell>
+    <Cell><Data ss:Type="String">Kooikerhondje</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">311</Data></Cell>
+    <Cell><Data ss:Type="String">Kuvasz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">312</Data></Cell>
+    <Cell><Data ss:Type="String">Lab/Weimaraner</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">313</Data></Cell>
+    <Cell><Data ss:Type="String">Labradoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">314</Data></Cell>
+    <Cell><Data ss:Type="String">Labrador Retriever</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">315</Data></Cell>
+    <Cell><Data ss:Type="String">Labrador Retriever - Red Fox</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">316</Data></Cell>
+    <Cell><Data ss:Type="String">Labrador Retriever Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">317</Data></Cell>
+    <Cell><Data ss:Type="String">Labrador Retriever-Charcoal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">318</Data></Cell>
+    <Cell><Data ss:Type="String">Labrador Retriever-Silver</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">319</Data></Cell>
+    <Cell><Data ss:Type="String">Labrador/Collie Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">320</Data></Cell>
+    <Cell><Data ss:Type="String">Labrador/Mastiff Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">321</Data></Cell>
+    <Cell><Data ss:Type="String">Laekenois</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">322</Data></Cell>
+    <Cell><Data ss:Type="String">Lakeland Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">323</Data></Cell>
+    <Cell><Data ss:Type="String">Lhasa Apso</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">324</Data></Cell>
+    <Cell><Data ss:Type="String">Lhasa Apso Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">325</Data></Cell>
+    <Cell><Data ss:Type="String">Lhasa Poo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">326</Data></Cell>
+    <Cell><Data ss:Type="String">Lhasa-chon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">327</Data></Cell>
+    <Cell><Data ss:Type="String">Lhasa-Pom</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">328</Data></Cell>
+    <Cell><Data ss:Type="String">Lhasa-Poo/Toy Fox Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">329</Data></Cell>
+    <Cell><Data ss:Type="String">Lhasa-Tzu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">330</Data></Cell>
+    <Cell><Data ss:Type="String">Lhasa/Havanese</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">331</Data></Cell>
+    <Cell><Data ss:Type="String">Lhasachon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">332</Data></Cell>
+    <Cell><Data ss:Type="String">Light English Retriever</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">333</Data></Cell>
+    <Cell><Data ss:Type="String">Long Haired Kittens</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">334</Data></Cell>
+    <Cell><Data ss:Type="String">Lowchen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">335</Data></Cell>
+    <Cell><Data ss:Type="String">Mal-Chi (Maltese/Chihuahua)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">336</Data></Cell>
+    <Cell><Data ss:Type="String">Mal-chon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">337</Data></Cell>
+    <Cell><Data ss:Type="String">Malchi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">338</Data></Cell>
+    <Cell><Data ss:Type="String">Malshi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">339</Data></Cell>
+    <Cell><Data ss:Type="String">Malteenie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">340</Data></Cell>
+    <Cell><Data ss:Type="String">Maltese</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">341</Data></Cell>
+    <Cell><Data ss:Type="String">Maltese Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">342</Data></Cell>
+    <Cell><Data ss:Type="String">Malti-Pom</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">343</Data></Cell>
+    <Cell><Data ss:Type="String">Maltipoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">344</Data></Cell>
+    <Cell><Data ss:Type="String">Maltipoo/Lier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">345</Data></Cell>
+    <Cell><Data ss:Type="String">Maltzu (Maltese/Shih Tzu)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">346</Data></Cell>
+    <Cell><Data ss:Type="String">Manchester Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">347</Data></Cell>
+    <Cell><Data ss:Type="String">Maremma Sheepdog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">348</Data></Cell>
+    <Cell><Data ss:Type="String">Mastiff</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">349</Data></Cell>
+    <Cell><Data ss:Type="String">Micro Piglets</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">350</Data></Cell>
+    <Cell><Data ss:Type="String">Mini American Eskimo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">351</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Aussiedoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">352</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Australian Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">353</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Australian Shepherd Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">354</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Bernedoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">355</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Bulldog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">356</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Eski/Goldendoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">357</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Eskimo Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">358</Data></Cell>
+    <Cell><Data ss:Type="String">Mini German Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">359</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Golden Retriever</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">360</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Goldendoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">361</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Hava-Doodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">362</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Irish Doodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">363</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Lab (Labrador Beagle Hybrid)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">364</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Labradoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">365</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Newfypoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">366</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Pinscher Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">367</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Pot Belly Pig</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">368</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Rottweiler</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">369</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Schnoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">370</Data></Cell>
+    <Cell><Data ss:Type="String">Mini Whoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">371</Data></Cell>
+    <Cell><Data ss:Type="String">Miniature Bull Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">372</Data></Cell>
+    <Cell><Data ss:Type="String">Miniature Husky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">373</Data></Cell>
+    <Cell><Data ss:Type="String">Miniature Pinscher</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">374</Data></Cell>
+    <Cell><Data ss:Type="String">Miniature Schnauzer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">375</Data></Cell>
+    <Cell><Data ss:Type="String">Miniature Schnauzer Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">376</Data></Cell>
+    <Cell><Data ss:Type="String">Mixed Breed (Large)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">377</Data></Cell>
+    <Cell><Data ss:Type="String">Mixed Breed (medium)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">378</Data></Cell>
+    <Cell><Data ss:Type="String">Mixed Breed (small)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">379</Data></Cell>
+    <Cell><Data ss:Type="String">Morkie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">380</Data></Cell>
+    <Cell><Data ss:Type="String">Morkie Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">381</Data></Cell>
+    <Cell><Data ss:Type="String">Morkie-Poo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">382</Data></Cell>
+    <Cell><Data ss:Type="String">Mountain Cur</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">383</Data></Cell>
+    <Cell><Data ss:Type="String">Mountain Cur Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">384</Data></Cell>
+    <Cell><Data ss:Type="String">Mountain Fiest</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">385</Data></Cell>
+    <Cell><Data ss:Type="String">Mountain Fiest Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">386</Data></Cell>
+    <Cell><Data ss:Type="String">Mug (Maltese/Pug)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">387</Data></Cell>
+    <Cell><Data ss:Type="String">Muggin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">388</Data></Cell>
+    <Cell><Data ss:Type="String">Neapolitan Mastiff</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">389</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">391</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland/Lab Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">392</Data></Cell>
+    <Cell><Data ss:Type="String">Newfypoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">393</Data></Cell>
+    <Cell><Data ss:Type="String">Norfolk Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">394</Data></Cell>
+    <Cell><Data ss:Type="String">Norwegian Buhund</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">395</Data></Cell>
+    <Cell><Data ss:Type="String">Norwegian Elkhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">396</Data></Cell>
+    <Cell><Data ss:Type="String">Norwegian Elkhound Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">397</Data></Cell>
+    <Cell><Data ss:Type="String">Norwegian Elkhound/Siberian Husky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">398</Data></Cell>
+    <Cell><Data ss:Type="String">Norwich Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">399</Data></Cell>
+    <Cell><Data ss:Type="String">Nova Scotia Duck Tolling Retriever</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell><Data ss:Type="String">Old English Sheepdog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">401</Data></Cell>
+    <Cell><Data ss:Type="String">Olde English Bulldogge Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">402</Data></Cell>
+    <Cell><Data ss:Type="String">Olde English Bulldogges</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">403</Data></Cell>
+    <Cell><Data ss:Type="String">Otterhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">404</Data></Cell>
+    <Cell><Data ss:Type="String">Papillon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">405</Data></Cell>
+    <Cell><Data ss:Type="String">Papillon Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">406</Data></Cell>
+    <Cell><Data ss:Type="String">Parti Yorkshire Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">407</Data></Cell>
+    <Cell><Data ss:Type="String">Pekalier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">408</Data></Cell>
+    <Cell><Data ss:Type="String">Peke-Pin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">409</Data></Cell>
+    <Cell><Data ss:Type="String">Peki-Pom</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">410</Data></Cell>
+    <Cell><Data ss:Type="String">Peki-Poo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">411</Data></Cell>
+    <Cell><Data ss:Type="String">Peki-Pug/Mini Pin Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">412</Data></Cell>
+    <Cell><Data ss:Type="String">Pekingese</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">413</Data></Cell>
+    <Cell><Data ss:Type="String">Pekingese Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">414</Data></Cell>
+    <Cell><Data ss:Type="String">Petit Basset Griffon Vendeen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">415</Data></Cell>
+    <Cell><Data ss:Type="String">Pharaoh Hound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">416</Data></Cell>
+    <Cell><Data ss:Type="String">Pit Bull</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">417</Data></Cell>
+    <Cell><Data ss:Type="String">Pit Bull Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">418</Data></Cell>
+    <Cell><Data ss:Type="String">Pointer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">419</Data></Cell>
+    <Cell><Data ss:Type="String">Polish Owczarek Nizinny</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">420</Data></Cell>
+    <Cell><Data ss:Type="String">Pom-Shi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">421</Data></Cell>
+    <Cell><Data ss:Type="String">Pom/Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">422</Data></Cell>
+    <Cell><Data ss:Type="String">Pomachon (Pomeranian/Bichon Hybrid)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">423</Data></Cell>
+    <Cell><Data ss:Type="String">Pomapoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">424</Data></Cell>
+    <Cell><Data ss:Type="String">Pomchi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">425</Data></Cell>
+    <Cell><Data ss:Type="String">Pomeranian</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">426</Data></Cell>
+    <Cell><Data ss:Type="String">Pomeranian Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">427</Data></Cell>
+    <Cell><Data ss:Type="String">Pomsky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">428</Data></Cell>
+    <Cell><Data ss:Type="String">Pomsky (Mini)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">429</Data></Cell>
+    <Cell><Data ss:Type="String">Pomsky Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">430</Data></Cell>
+    <Cell><Data ss:Type="String">Poodle (Toy)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">431</Data></Cell>
+    <Cell><Data ss:Type="String">Poodle Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">432</Data></Cell>
+    <Cell><Data ss:Type="String">Poodles (Mini)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">433</Data></Cell>
+    <Cell><Data ss:Type="String">Poodles (Standard)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">434</Data></Cell>
+    <Cell><Data ss:Type="String">Poogle (Beagle/Poodle)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">435</Data></Cell>
+    <Cell><Data ss:Type="String">PooTon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">436</Data></Cell>
+    <Cell><Data ss:Type="String">Porkie (Pug/Yorkie)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">437</Data></Cell>
+    <Cell><Data ss:Type="String">Portuguese Water Dog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">438</Data></Cell>
+    <Cell><Data ss:Type="String">Presa Canario Mastiffs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">439</Data></Cell>
+    <Cell><Data ss:Type="String">Presa Canario Mastiffs Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">440</Data></Cell>
+    <Cell><Data ss:Type="String">Pug</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">441</Data></Cell>
+    <Cell><Data ss:Type="String">Pug Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">442</Data></Cell>
+    <Cell><Data ss:Type="String">Pug/Rat Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">443</Data></Cell>
+    <Cell><Data ss:Type="String">Pug/Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">444</Data></Cell>
+    <Cell><Data ss:Type="String">Pugador (Labrador Retriever/Pug)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">445</Data></Cell>
+    <Cell><Data ss:Type="String">Pugapoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">446</Data></Cell>
+    <Cell><Data ss:Type="String">Puggle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">447</Data></Cell>
+    <Cell><Data ss:Type="String">Puggle Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">448</Data></Cell>
+    <Cell><Data ss:Type="String">Puggle-Sharpei</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">449</Data></Cell>
+    <Cell><Data ss:Type="String">Puggle/Mini Pin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">450</Data></Cell>
+    <Cell><Data ss:Type="String">Pugston Terriers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">451</Data></Cell>
+    <Cell><Data ss:Type="String">Puli</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">452</Data></Cell>
+    <Cell><Data ss:Type="String">Rabbit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">453</Data></Cell>
+    <Cell><Data ss:Type="String">Ragamese Kittens</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">454</Data></Cell>
+    <Cell><Data ss:Type="String">Ragdoll Kittens</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">455</Data></Cell>
+    <Cell><Data ss:Type="String">Rat Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">456</Data></Cell>
+    <Cell><Data ss:Type="String">Rat Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">457</Data></Cell>
+    <Cell><Data ss:Type="String">Red and White Setter</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">458</Data></Cell>
+    <Cell><Data ss:Type="String">Red Heeler</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">459</Data></Cell>
+    <Cell><Data ss:Type="String">Red Heeler Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">460</Data></Cell>
+    <Cell><Data ss:Type="String">Redbone Coonhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">461</Data></Cell>
+    <Cell><Data ss:Type="String">Rhodesian Ridgeback</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">462</Data></Cell>
+    <Cell><Data ss:Type="String">Rottweiler</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">463</Data></Cell>
+    <Cell><Data ss:Type="String">Rottweiler Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">464</Data></Cell>
+    <Cell><Data ss:Type="String">Rottweiler/Doberman</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">465</Data></Cell>
+    <Cell><Data ss:Type="String">Rottweiler/German Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">466</Data></Cell>
+    <Cell><Data ss:Type="String">Saint Berdoodles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">467</Data></Cell>
+    <Cell><Data ss:Type="String">Saint Bernard</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">468</Data></Cell>
+    <Cell><Data ss:Type="String">Saint Bernard Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">469</Data></Cell>
+    <Cell><Data ss:Type="String">Saint Bernese</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">470</Data></Cell>
+    <Cell><Data ss:Type="String">Saint Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">471</Data></Cell>
+    <Cell><Data ss:Type="String">Saluki</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">472</Data></Cell>
+    <Cell><Data ss:Type="String">Samoyed</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">473</Data></Cell>
+    <Cell><Data ss:Type="String">Schipperke</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">474</Data></Cell>
+    <Cell><Data ss:Type="String">Schipperke Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">475</Data></Cell>
+    <Cell><Data ss:Type="String">Schipperke Powder Puffs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">476</Data></Cell>
+    <Cell><Data ss:Type="String">Schnauzer Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">477</Data></Cell>
+    <Cell><Data ss:Type="String">Schnoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">478</Data></Cell>
+    <Cell><Data ss:Type="String">Schnotties</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">479</Data></Cell>
+    <Cell><Data ss:Type="String">Scottish Deerhound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">480</Data></Cell>
+    <Cell><Data ss:Type="String">Scottish Kilt Kittens</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">481</Data></Cell>
+    <Cell><Data ss:Type="String">Scottish Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">482</Data></Cell>
+    <Cell><Data ss:Type="String">Sealyham Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">483</Data></Cell>
+    <Cell><Data ss:Type="String">Shar Pei/Bulldog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">484</Data></Cell>
+    <Cell><Data ss:Type="String">Sharpei-Cocker</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">485</Data></Cell>
+    <Cell><Data ss:Type="String">Sheepadoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">486</Data></Cell>
+    <Cell><Data ss:Type="String">Sheltie Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">487</Data></Cell>
+    <Cell><Data ss:Type="String">Sheltie/Eskimo Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">488</Data></Cell>
+    <Cell><Data ss:Type="String">Sheltiedoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">489</Data></Cell>
+    <Cell><Data ss:Type="String">Shepherd Doodles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">490</Data></Cell>
+    <Cell><Data ss:Type="String">Shepkita</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">491</Data></Cell>
+    <Cell><Data ss:Type="String">Shetland Sheepdog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">492</Data></Cell>
+    <Cell><Data ss:Type="String">Shi-Chi (Shih Tzu Chihuahua)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">493</Data></Cell>
+    <Cell><Data ss:Type="String">Shi-pom</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">494</Data></Cell>
+    <Cell><Data ss:Type="String">Shiba Inu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">495</Data></Cell>
+    <Cell><Data ss:Type="String">Shiba Inu Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">496</Data></Cell>
+    <Cell><Data ss:Type="String">Shichon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">497</Data></Cell>
+    <Cell><Data ss:Type="String">Shichon/Yorkie Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">498</Data></Cell>
+    <Cell><Data ss:Type="String">Shiffon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">499</Data></Cell>
+    <Cell><Data ss:Type="String">Shih Tzu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Shih Tzu Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">501</Data></Cell>
+    <Cell><Data ss:Type="String">Shih Tzu/Havanese</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">502</Data></Cell>
+    <Cell><Data ss:Type="String">Shih Tzu/Lhasa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">503</Data></Cell>
+    <Cell><Data ss:Type="String">Shih-poo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">504</Data></Cell>
+    <Cell><Data ss:Type="String">Shipoo Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">505</Data></Cell>
+    <Cell><Data ss:Type="String">Shorkie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">506</Data></Cell>
+    <Cell><Data ss:Type="String">Shorkinese</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">507</Data></Cell>
+    <Cell><Data ss:Type="String">Siamese Cat</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">508</Data></Cell>
+    <Cell><Data ss:Type="String">Siberian Husky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">509</Data></Cell>
+    <Cell><Data ss:Type="String">Siberian Husky Mini</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">510</Data></Cell>
+    <Cell><Data ss:Type="String">Siberian Husky Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">511</Data></Cell>
+    <Cell><Data ss:Type="String">Siberian Husky/Labrador Retriever</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">512</Data></Cell>
+    <Cell><Data ss:Type="String">Siberian Husky/Wolf Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">513</Data></Cell>
+    <Cell><Data ss:Type="String">Silkie-poo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">514</Data></Cell>
+    <Cell><Data ss:Type="String">Silky Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">515</Data></Cell>
+    <Cell><Data ss:Type="String">Silky/Cotons</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">516</Data></Cell>
+    <Cell><Data ss:Type="String">Silky/Havanese Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">517</Data></Cell>
+    <Cell><Data ss:Type="String">Silkychon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">518</Data></Cell>
+    <Cell><Data ss:Type="String">Skye Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">519</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Coated Goldens</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">520</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Coated Wheaten Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">521</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Coated Wheaton Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">522</Data></Cell>
+    <Cell><Data ss:Type="String">South African Boerboels</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">523</Data></Cell>
+    <Cell><Data ss:Type="String">Spinone Italiano</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">524</Data></Cell>
+    <Cell><Data ss:Type="String">Springer Spaniel Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">525</Data></Cell>
+    <Cell><Data ss:Type="String">Springerdoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">526</Data></Cell>
+    <Cell><Data ss:Type="String">Staffordshire Bull Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">527</Data></Cell>
+    <Cell><Data ss:Type="String">Staffordshire Bull Terrier Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">528</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Schnauzer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">529</Data></Cell>
+    <Cell><Data ss:Type="String">Sussex Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">530</Data></Cell>
+    <Cell><Data ss:Type="String">Teddy Bear</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">531</Data></Cell>
+    <Cell><Data ss:Type="String">Teddy Roosevelt Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">532</Data></Cell>
+    <Cell><Data ss:Type="String">Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">533</Data></Cell>
+    <Cell><Data ss:Type="String">Tervuren</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">534</Data></Cell>
+    <Cell><Data ss:Type="String">Tibetan Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">535</Data></Cell>
+    <Cell><Data ss:Type="String">Tibetan Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">536</Data></Cell>
+    <Cell><Data ss:Type="String">Torkie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">537</Data></Cell>
+    <Cell><Data ss:Type="String">Toy Australian Shepherd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">538</Data></Cell>
+    <Cell><Data ss:Type="String">Toy Fox Beagle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">539</Data></Cell>
+    <Cell><Data ss:Type="String">Toy Fox Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">540</Data></Cell>
+    <Cell><Data ss:Type="String">Toy Manchester Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">541</Data></Cell>
+    <Cell><Data ss:Type="String">Toy Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">542</Data></Cell>
+    <Cell><Data ss:Type="String">Toy Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">543</Data></Cell>
+    <Cell><Data ss:Type="String">Victorian Bulldog</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">544</Data></Cell>
+    <Cell><Data ss:Type="String">Vizsla</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">545</Data></Cell>
+    <Cell><Data ss:Type="String">Vizsla Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">546</Data></Cell>
+    <Cell><Data ss:Type="String">Walker Hound</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">547</Data></Cell>
+    <Cell><Data ss:Type="String">Walker Hound Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">548</Data></Cell>
+    <Cell><Data ss:Type="String">Weimaraner</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">549</Data></Cell>
+    <Cell><Data ss:Type="String">Weimaraner Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">550</Data></Cell>
+    <Cell><Data ss:Type="String">Welsh Corgi (Pembroke)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">551</Data></Cell>
+    <Cell><Data ss:Type="String">Welsh Corgi Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">552</Data></Cell>
+    <Cell><Data ss:Type="String">Welsh Corgi/Jack Russel Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">553</Data></Cell>
+    <Cell><Data ss:Type="String">Welsh Springer Spaniel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">554</Data></Cell>
+    <Cell><Data ss:Type="String">Welsh Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">555</Data></Cell>
+    <Cell><Data ss:Type="String">West Highland Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">556</Data></Cell>
+    <Cell><Data ss:Type="String">West Highland White Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">557</Data></Cell>
+    <Cell><Data ss:Type="String">Westie-Chon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">558</Data></Cell>
+    <Cell><Data ss:Type="String">Westie-Poo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">559</Data></Cell>
+    <Cell><Data ss:Type="String">Wheatie-Poo Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">560</Data></Cell>
+    <Cell><Data ss:Type="String">Whippet</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">561</Data></Cell>
+    <Cell><Data ss:Type="String">Whoodle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">562</Data></Cell>
+    <Cell><Data ss:Type="String">Wire Fox Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">563</Data></Cell>
+    <Cell><Data ss:Type="String">Wirehaired Pointing Griffon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">564</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Hybrid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">565</Data></Cell>
+    <Cell><Data ss:Type="String">Xoloitzcuintli</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">566</Data></Cell>
+    <Cell><Data ss:Type="String">York-Chon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">567</Data></Cell>
+    <Cell><Data ss:Type="String">Yorkie-Pom</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">568</Data></Cell>
+    <Cell><Data ss:Type="String">Yorkie-Silkie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">569</Data></Cell>
+    <Cell><Data ss:Type="String">Yorkie/Fox Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">570</Data></Cell>
+    <Cell><Data ss:Type="String">Yorkie/Rat Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">571</Data></Cell>
+    <Cell><Data ss:Type="String">Yorkiepoo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">572</Data></Cell>
+    <Cell><Data ss:Type="String">Yorkshire Terrier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">573</Data></Cell>
+    <Cell><Data ss:Type="String">Yorkshire Terrier Mix</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">574</Data></Cell>
+    <Cell><Data ss:Type="String">Yorktese</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
