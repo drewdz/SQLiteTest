@@ -2,6 +2,7 @@
 using MvvmCross.Forms.Views;
 
 using SqliteTest.Core.ViewModels;
+using Xamarin.Forms;
 
 namespace SqliteTest.UI.Pages
 {

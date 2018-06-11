@@ -6,10 +6,35 @@
     xmlns:views="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms"
     xmlns:mvx="clr-namespace:MvvmCross.Forms.Bindings;assembly=MvvmCross.Forms"
     xmlns:viewModels="clr-namespace:SqliteTest.Core.ViewModels;assembly=SqliteTest.Core"
+    xmlns:converters="clr-namespace:SqliteTest.UI.Converters"
     x:Class="SqliteTest.UI.Pages.MainPage" Title="Main page">
+
+    <views:MvxContentPage.Resources>
+        <ResourceDictionary>
+            <converters:SearchColorConverter x:Key="SearchColorConverter" />
+        </ResourceDictionary>
+    </views:MvxContentPage.Resources>
+
+    <views:MvxContentPage.ToolbarItems>
+        <ToolbarItem x:Name="TestItem" Text="Chinese Crested" Command="{Binding ToolbarCommand}" />
+
+    </views:MvxContentPage.ToolbarItems>
+    
     <ContentPage.Content>
         <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <SearchBar
+                Grid.Row="0"
+                Text="{Binding SearchText}"
+                TextColor="{Binding SearchText, Converter={StaticResource SearchColorConverter}}"
+                />
+
             <ListView
+                Grid.Row="1"
                 IsGroupingEnabled="True"
                 GroupShortNameBinding="{Binding Key}"
                 GroupDisplayBinding="{Binding Key}"
